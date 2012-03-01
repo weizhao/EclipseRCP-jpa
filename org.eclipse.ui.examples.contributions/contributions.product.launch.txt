@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.pde.ui.RuntimeWorkbench">
+<booleanAttribute key="append.args" value="true"/>
+<booleanAttribute key="askclear" value="true"/>
+<booleanAttribute key="automaticAdd" value="true"/>
+<booleanAttribute key="automaticValidate" value="false"/>
+<stringAttribute key="bootstrap" value=""/>
+<stringAttribute key="checked" value="[NONE]"/>
+<booleanAttribute key="clearConfig" value="false"/>
+<booleanAttribute key="clearws" value="false"/>
+<booleanAttribute key="clearwslog" value="false"/>
+<stringAttribute key="configLocation" value="${workspace_loc}/.metadata/.plugins/org.eclipse.pde.core/contributions.product"/>
+<booleanAttribute key="default" value="false"/>
+<stringAttribute key="deselected_workspace_plugins" value="org.eclipse.ui.examples.contributions.model.setup,org.eclipse.examples.jpa.persistence.service,org.eclipse.persistence.derby"/>
+<booleanAttribute key="includeOptional" value="true"/>
+<stringAttribute key="location" value="C:\Users\Wei\xxworkspace"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-os ${target.os} -ws ${target.ws} -arch ${target.arch} -nl ${target.nl} -consoleLog"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.pde.ui.workbenchClasspathProvider"/>
+<stringAttribute key="pde.version" value="3.3"/>
+<stringAttribute key="product" value="org.eclipse.ui.examples.contributions.product"/>
+<stringAttribute key="selected_target_plugins" value="org.eclipse.core.commands@default:default,org.eclipse.core.runtime@default:true,org.eclipse.persistence.jpa.equinox.weaving@default:false,org.eclipse.swt@default:default,org.eclipse.core.runtime.compatibility.auth@default:default,org.eclipse.jface.databinding@default:default,org.eclipse.core.databinding.property@default:default,org.eclipse.core.contenttype@default:default,javax.persistence@default:default,javax.transaction@default:false,org.eclipse.osgi.services@default:default,org.eclipse.equinox.common@default:default,com.ibm.icu@default:default,org.eclipse.core.databinding.observable@default:default,org.eclipse.jface@default:default,org.eclipse.core.expressions@default:default,org.eclipse.swt.win32.win32.x86@default:false,org.eclipse.osgi,org.eclipse.core.jobs@default:default,org.eclipse.equinox.app@default:default,org.eclipse.help@default:default,org.eclipse.ui@default:default,org.eclipse.equinox.registry@default:default,org.eclipse.core.runtime.compatibility.registry@default:false,javax.servlet@default:default,org.eclipse.equinox.preferences@default:default,org.eclipse.core.databinding@default:default,org.eclipse.ui.workbench@default:default"/>
+<stringAttribute key="selected_workspace_plugins" value="org.eclipse.ui.examples.contributions.model.annotated@default:default,org.eclipse.ui.examples.contributions.common@default:default,org.eclipse.ui.examples.contributions.common.nl@default:false,org.eclipse.ui.examples.contributions.application.fragment@default:false,org.eclipse.ui.examples.contributions@default:default,org.eclipse.ui.examples.contributions.model.persistence@default:default"/>
+<booleanAttribute key="show_selected_only" value="false"/>
+<stringAttribute key="templateConfig" value="${target_home}\configuration\config.ini"/>
+<booleanAttribute key="tracing" value="false"/>
+<booleanAttribute key="useCustomFeatures" value="false"/>
+<booleanAttribute key="useDefaultConfig" value="true"/>
+<booleanAttribute key="useDefaultConfigArea" value="true"/>
+<booleanAttribute key="useProduct" value="true"/>
+</launchConfiguration>

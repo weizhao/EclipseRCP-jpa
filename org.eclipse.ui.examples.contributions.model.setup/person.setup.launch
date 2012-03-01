@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.pde.ui.EquinoxLauncher">
+<booleanAttribute key="append.args" value="true"/>
+<booleanAttribute key="automaticAdd" value="true"/>
+<booleanAttribute key="automaticValidate" value="false"/>
+<stringAttribute key="bootstrap" value=""/>
+<stringAttribute key="checked" value="[NONE]"/>
+<booleanAttribute key="clearConfig" value="false"/>
+<stringAttribute key="configLocation" value="${workspace_loc}/.metadata/.plugins/org.eclipse.pde.core/person.setup"/>
+<booleanAttribute key="default" value="true"/>
+<booleanAttribute key="default_auto_start" value="true"/>
+<intAttribute key="default_start_level" value="4"/>
+<stringAttribute key="deselected_workspace_plugins" value="org.eclipse.examples.jpa.persistence.service,org.eclipse.ui.examples.contributions,org.eclipse.ui.examples.contributions.model.persistence"/>
+<booleanAttribute key="includeOptional" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-os ${target.os} -ws ${target.ws} -arch ${target.arch} -nl ${target.nl} -consoleLog -console"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.pde.ui.workbenchClasspathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Declipse.ignoreApp=true -Dosgi.noShutdown=false"/>
+<stringAttribute key="pde.version" value="3.3"/>
+<booleanAttribute key="show_selected_only" value="false"/>
+<stringAttribute key="target_bundles" value="org.eclipse.persistence.jpa.osgi@default:false,org.eclipse.osgi.services@default:default,javax.servlet@default:default,javax.activation@default:default,org.eclipse.core.jobs@default:default,org.eclipse.core.runtime@default:true,org.eclipse.persistence.core@default:default,org.eclipse.equinox.preferences@default:default,org.eclipse.persistence.antlr@default:default,org.eclipse.equinox.registry@default:default,javax.xml.stream@default:default,org.eclipse.osgi@-1:true,javax.mail@default:default,org.eclipse.persistence.jpa@default:default,javax.transaction@default:false,org.eclipse.equinox.common@2:true,org.eclipse.persistence.asm@default:default,org.eclipse.core.runtime.compatibility.auth@default:default,org.apache.ant@default:default,org.eclipse.persistence.jpa.equinox.weaving@default:false,org.eclipse.equinox.app@default:default,org.eclipse.persistence.oracle@default:false,org.eclipse.core.runtime.compatibility.registry@default:false,javax.persistence@default:default,org.eclipse.persistence.jpa.equinox@default:false,org.eclipse.net4j.jms.api@default:default,org.eclipse.core.contenttype@default:default,javax.xml@default:default"/>
+<booleanAttribute key="tracing" value="false"/>
+<booleanAttribute key="useCustomFeatures" value="false"/>
+<booleanAttribute key="useDefaultConfigArea" value="true"/>
+<stringAttribute key="workspace_bundles" value="org.eclipse.persistence.derby@default:default,org.eclipse.ui.examples.contributions.model.setup@default:default,org.eclipse.ui.examples.contributions.model.annotated@default:default"/>
+</launchConfiguration>

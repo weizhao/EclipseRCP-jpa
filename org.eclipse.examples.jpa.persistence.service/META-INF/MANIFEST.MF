@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Service
+Bundle-SymbolicName: org.eclipse.examples.jpa.persistence.service
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: javax.persistence;version="2.0.1",
+ org.apache.derby.jdbc
+Require-Bundle: org.eclipse.persistence.jpa;bundle-version="2.1.0"
+Export-Package: org.eclipse.examples.jpa.persistence.service
